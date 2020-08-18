@@ -1,4 +1,4 @@
-package com.androidtut.qaifi.bluetoothchatapp;
+
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
@@ -16,9 +16,7 @@ import java.io.OutputStream;
 import java.util.UUID;
 
 
-/**
- * Created by Qaifi on 4/5/2018.
- */
+
 
 public class ChatUtils {
     private Context context;

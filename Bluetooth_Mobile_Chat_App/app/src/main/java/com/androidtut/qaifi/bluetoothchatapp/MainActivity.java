@@ -1,4 +1,4 @@
-package com.androidtut.qaifi.bluetoothchatapp;
+
 
 import android.Manifest;
 import android.bluetooth.BluetoothAdapter;
