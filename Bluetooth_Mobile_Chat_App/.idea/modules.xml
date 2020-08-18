@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BluetoothChatApp.iml" filepath="$PROJECT_DIR$/BluetoothChatApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bluetooth_Mobile_Chat_App.iml" filepath="$PROJECT_DIR$/.idea/modules/Bluetooth_Mobile_Chat_App.iml" group="Bluetooth_Mobile_Chat_App" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bluetooth_Mobile_Chat_App-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bluetooth_Mobile_Chat_App-app.iml" group="Bluetooth_Mobile_Chat_App/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
