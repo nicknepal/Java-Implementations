@@ -1,4 +1,4 @@
-package com.androidtut.qaifi.bluetoothchatapp;
+package com.android.niraj.bluetoothchatapp;
 
 import org.junit.Test;
 
