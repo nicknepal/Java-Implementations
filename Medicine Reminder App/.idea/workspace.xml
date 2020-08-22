@@ -6,112 +6,13 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1fc9edf-aca1-4fa6-beb2-e74c7a3c90db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/gautam/medicinetime/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/niraj/medremainder/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/BasePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/BasePresenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/BaseView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/BaseView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/MedicineApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/MedicineApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/addmedicine/AddMedicineActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/addmedicine/AddMedicineActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/addmedicine/AddMedicineContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/addmedicine/AddMedicineContract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/addmedicine/AddMedicineFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/addmedicine/AddMedicineFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/addmedicine/AddMedicinePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/addmedicine/AddMedicinePresenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/alarm/ReminderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/alarm/ReminderActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/alarm/ReminderContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/alarm/ReminderContract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/alarm/ReminderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/alarm/ReminderFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/alarm/ReminderPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/alarm/ReminderPresenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/data/source/History.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/MedicineAlarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/data/source/MedicineAlarm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/MedicineDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/data/source/MedicineDataSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/MedicineRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/data/source/MedicineRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/Pills.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/data/source/Pills.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/local/MedicineDBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/data/source/local/MedicineDBHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/data/source/local/MedicinesLocalDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/data/source/local/MedicinesLocalDataSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/medicine/MedicineActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/medicine/MedicineActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/medicine/MedicineAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/medicine/MedicineAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/medicine/MedicineContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/medicine/MedicineContract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/medicine/MedicineFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/medicine/MedicineFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/medicine/MedicinePresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/medicine/MedicinePresenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/FilterType.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/report/FilterType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/HistoryAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/report/HistoryAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/MonthlyReportActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/report/MonthlyReportActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/MonthlyReportContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/report/MonthlyReportContract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/MonthlyReportFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/report/MonthlyReportFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/report/MonthlyReportPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/report/MonthlyReportPresenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/utils/ActivityUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/utils/ActivityUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/utils/FontUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/utils/FontUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/utils/ScrollingCalendarBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/utils/ScrollingCalendarBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/views/DayViewCheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/views/DayViewCheckBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/views/RobotoBoldTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/views/RobotoBoldTextView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/views/RobotoLightTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/views/RobotoLightTextView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/gautam/medicinetime/views/RobotoRegularTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/niraj/medremainder/views/RobotoRegularTextView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_add.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_add.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_arrow_drop_down.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_arrow_drop_down.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_clear.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_clear.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_done.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_done.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_filter_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_filter_list.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v21/ic_statistics.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/background_configure_alarm_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_configure_alarm_button.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/background_configure_medication.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/background_day_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_day_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/background_status_medication.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/background_take_alarm_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/background_take_alarm_button.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/background_take_medication.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/drawable_underline.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/drawable_underline.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/touch_feedback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/touch_feedback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_add_medicine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_add_medicine.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_medicine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_medicine.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_monthly_report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_monthly_report.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_reminder_actvity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_reminder_actvity.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/component_day_view.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_add_medicine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_add_medicine.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_history.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_medicine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_medicine.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_reminder.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_reminder.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/row_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_history.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/row_medicine.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/row_medicine.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/filter_history.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/filter_history.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/history_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/history_menu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/medicine_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/menu/medicine_menu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/mock/java/com.gautam.medicinetime/Injection.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/mock/java/medremainder/Injection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/mock/java/com.gautam.medicinetime/data/FakeMedicineLocalDataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/mock/java/medremainder/data/FakeMedicineLocalDataSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/prod/java/com.gautam.medicinetime/Injection.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/prod/java/com.gautam.medicinetime/Injection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/gautam/medicinetime/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/niraj/medremainder/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arts/Screenshot_2017-08-03-16-16-06-694_com.gautam.medicinetime.mock.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arts/Screenshot_2017-08-03-16-16-17-091_com.gautam.medicinetime.mock.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arts/Screenshot_2017-08-03-16-16-28-924_com.gautam.medicinetime.mock.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="a1fc9edf-aca1-4fa6-beb2-e74c7a3c90db" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -130,9 +31,10 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1cX58PB4odluM0SE8Epxx8Pxi4n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
