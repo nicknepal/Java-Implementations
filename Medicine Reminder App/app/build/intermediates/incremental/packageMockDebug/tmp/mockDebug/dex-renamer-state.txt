@@ -1,4 +1,0 @@
-#Sat Aug 22 22:07:11 NPT 2020
-base.0=/Users/nirajthapa/Documents/Java-Implementations/Medicine Reminder App/app/build/intermediates/dex/mockDebug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
