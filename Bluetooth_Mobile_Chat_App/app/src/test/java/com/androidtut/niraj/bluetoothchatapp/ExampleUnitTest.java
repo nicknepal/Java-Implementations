@@ -1,8 +1,9 @@
-package com.android.niraj.bluetoothchatapp;
+package com.androidtut.niraj.bluetoothchatapp;
 
 import org.junit.Test;
 
 import static org.junit.Assert.*;
+
 
 public class ExampleUnitTest {
     @Test

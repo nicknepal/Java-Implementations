@@ -1,4 +1,4 @@
-package com.android.niraj.bluetoothchatapp;
+package com.androidtut.niraj.bluetoothchatapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -17,6 +17,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.androidtut.qaifi.bluetoothchatapp", appContext.getPackageName());
+        assertEquals("com.androidtut.niraj.bluetoothchatapp", appContext.getPackageName());
     }
 }

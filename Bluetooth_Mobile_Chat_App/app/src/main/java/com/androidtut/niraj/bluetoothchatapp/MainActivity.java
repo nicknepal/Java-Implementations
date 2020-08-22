@@ -1,4 +1,4 @@
-
+package com.androidtut.niraj.bluetoothchatapp;
 
 import android.Manifest;
 import android.bluetooth.BluetoothAdapter;
