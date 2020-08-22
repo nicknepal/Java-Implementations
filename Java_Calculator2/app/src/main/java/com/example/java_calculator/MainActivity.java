@@ -123,83 +123,93 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        btnAdd.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                if (ed1==null){
-                    ed1.setText("");
-                }
-                else {
-                    Res1=Float.parseFloat(ed1.getText()+"");
-                    Add=true;
-                    ed1.setText("");
-                }
-            }
-        });
+//-------------------------------------------------------------------------------------
 
-        btnMul.setOnClickListener(new View.OnClickListener() {
+        btnDiv.setOnClickListener((new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (ed1==null){
+                if (ed1 == null) {
                     ed1.setText("");
                 }
                 else {
-                    Res1=Float.parseFloat(ed1.getText()+"");
-                    Mul=true;
-                    ed1.setText("");
+                    Res1 = Float.parseFloat(ed1.getText() + "");
+                    Div = true;
+                    ed1.setText(null);
                 }
             }
-        });
+        }));
 
-        btnSub.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                if (ed1==null){
-                    ed1.setText("");
-                }
-                else {
-                    Res1=Float.parseFloat(ed1.getText()+"");
-                    Sub=true;
-                    ed1.setText("");
-                }
-            }
-        });
 
-        btnDiv.setOnClickListener(new View.OnClickListener() {
+        btnMul.setOnClickListener((new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (ed1==null){
+                if (ed1 == null) {
                     ed1.setText("");
                 }
                 else {
-                    Res1=Float.parseFloat(ed1.getText()+"");
-                    Div=true;
-                    ed1.setText("");
+                    Res1 = Float.parseFloat(ed1.getText() + "");
+                    Mul = true;
+                    ed1.setText(null);
                 }
             }
-        });
+        }));
+
+
+        btnAdd.setOnClickListener((new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (ed1 == null) {
+                    ed1.setText("");
+                }
+                else {
+                    Res1 = Float.parseFloat(ed1.getText() + "");
+                    Add = true;
+                    ed1.setText(null);
+                }
+            }
+        }));
+
+
+        btnSub.setOnClickListener((new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                if (ed1 == null) {
+                    ed1.setText("");
+                }
+                else {
+                    Res1 = Float.parseFloat(ed1.getText() + "");
+                    Sub = true;
+                    ed1.setText(null);
+                }
+            }
+        }));
+
+
+
+
 
 
         btnEqual.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
                 Res2=Float.parseFloat(ed1.getText()+"");
-                if (Add=true){
+                if (Add==true){
                     ed1.setText(Res1+Res2+"");
                     Add=false;
                 }
 
-                if (Sub=true){
+                if (Sub==true){
                     ed1.setText(Res1-Res2+"");
                     Sub=false;
                 }
 
-                if (Mul=true){
+                if (Mul==true){
                     ed1.setText(Res1*Res2+"");
                     Mul=false;
                 }
 
-                if (Div=true){
+                if (Div==true){
                     ed1.setText(Res1/Res2+"");
                     Div=false;
                 }
